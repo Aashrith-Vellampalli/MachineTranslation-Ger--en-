@@ -1,0 +1,10 @@
+torch
+numpy
+tqdm
+spacy
+datasets
+nltk
+matplotlib
+seaborn
+
+
